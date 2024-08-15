@@ -1,0 +1,21 @@
+<style>
+body {
+    background-image: url('a7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login-container {
+    width: 300px;
+    padding: 20px;
+    background: transparent;
+    border: 2px solid;
+    text-align: center;
+    align-items: center;
+    margin: 50px auto;
+}
+.center-align {
+    text-align: center;
+    align-items: center;
+    color: black;
+}
+</style>
